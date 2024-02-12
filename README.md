@@ -7,11 +7,11 @@ As such, this repository will serve as a showcase of the achievements I've attai
 Some IT achievements I would like to list here:
 
 - Grade 8: **First prize** in the Provincial Excellent Student Contest.
-- Grade 9: **First prize** in the Provincial Youth IT Contest; **Third prize** in the *National* Junior IT Competition for non-specialists.
-- Grade 10: **Gold medal** in the 30/4 Olympic exam for the *southern region* - Vietnam ([view exam](<G10_exam Olympic.pdf>)).
-- Grade 11: **Bronze medal** in the 30/4 Olympic exam for the *southern region* - Vietnam ([view exam](<G11_exam Olympic.pdf>)); **Third prize** in the Provincial Excellent Student Competition ([view exam](<G11_exam Provincial.pdf>)).
+- Grade 9: **First prize** in the Provincial Youth IT Contest; **Third prize** in the *National* Youth IT Contest.
+- Grade 10: **Gold medal** in the 30/4 Olympic exam for the *southern region* - Vietnam ([view exam](<exams/exam Olympic G10.pdf>)).
+- Grade 11: **Bronze medal** in the 30/4 Olympic exam for the *southern region* - Vietnam ([view exam](<exams/exam Olympic G11.pdf>)); **Third prize** in the Provincial Excellent Student Competition ([view exam](<exams/exam Provincial G11.pdf>)).
 - Bach Khoa University at HCMC: **Third prize** of the 2019 Pascal Descendants Contest co-organized by the School with TEKO; Reached **the semi-final** of Code Tour x Uni co-organized by the School with VNG.
-- Work at Viettel Solutions: Third prize in Hackathon Backend Code Challenge 2023 ([view leader board](https://www.hackerrank.com/contests/backend-code-challenge/leaderboard)).
+- Work at Viettel Solutions: Third prize in Hackathon Backend Code Challenge 2023 ([view HackerRank leader board](https://www.hackerrank.com/contests/backend-code-challenge/leaderboard)).
 
 There are also many Math awards that I have [here](Math). I don't list the awards at the District level because they would be too many.
 
