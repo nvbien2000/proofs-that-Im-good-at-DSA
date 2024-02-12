@@ -1,6 +1,6 @@
-Dear recruiter,
+## Dear recruiter,
 
-Thank you for taking the time to review my profile. If you're reading this, you're likely interested in learning more about me. I firmly believe that companies that prioritize candidates' Data Structures & Algorithms abilities are often the top-tier companies in the market. It's reassuring to know that.
+Thank you for taking the time to review my profile. If you're reading this, you're likely interested in learning more about me. I firmly believe that companies that prioritize candidates' **Data Structures & Algorithms** abilities are often the top-tier companies in the market. It's reassuring to know that.
 
 As such, this repository will serve as a showcase of the achievements I've attained throughout my studies. I hope these accomplishments impress you, and perhaps even lead you to consider bypassing the LeetCode or HackerRank tests during the interview process :D Thank you!
 
@@ -11,7 +11,7 @@ Some IT achievements I would like to list here:
 - Grade 10: **Gold medal** in the 30/4 Olympic exam for the *southern region* - Vietnam ([view exam](<exams/exam Olympic G10.pdf>)).
 - Grade 11: **Bronze medal** in the 30/4 Olympic exam for the *southern region* - Vietnam ([view exam](<exams/exam Olympic G11.pdf>)); **Third prize** in the Provincial Excellent Student Competition ([view exam](<exams/exam Provincial G11.pdf>)).
 - Bach Khoa University at HCMC: **Third prize** of the 2019 Pascal Descendants Contest co-organized by the School with TEKO; Reached **the semi-final** of Code Tour x Uni co-organized by the School with VNG.
-- Work at Viettel Solutions: Third prize in Hackathon Backend Code Challenge 2023 ([view HackerRank leader board](https://www.hackerrank.com/contests/backend-code-challenge/leaderboard)).
+- Work at Viettel Solutions: **Third prize** in Hackathon Backend Code Challenge 2023 ([view HackerRank leaderboard](https://www.hackerrank.com/contests/backend-code-challenge/leaderboard)).
 
 There are also many Math awards that I have [here](Math). I don't list the awards at the District level because they would be too many.
 
