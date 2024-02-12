@@ -8,8 +8,8 @@ Some IT achievements I would like to list here:
 
 - Grade 8: **First prize** in the Provincial Excellent Student Contest.
 - Grade 9: **First prize** in the Provincial Youth IT Contest; **Third prize** in the *National* Junior IT Competition for non-specialists.
-- Grade 10: **Gold medal** in the 30/4 Olympic exam for the *southern region* - Vietnam ([view the exam](G10_exam.pdf)).
-- Grade 11: **Bronze medal** in the 30/4 Olympic exam for the *southern region* - Vietnam ([view the exam](G11_exam.pdf)); **Third prize** in the Provincial Excellent Student Competition.
+- Grade 10: **Gold medal** in the 30/4 Olympic exam for the *southern region* - Vietnam ([view exam](<G10_exam Olympic.pdf>)).
+- Grade 11: **Bronze medal** in the 30/4 Olympic exam for the *southern region* - Vietnam ([view exam](<G11_exam Olympic.pdf>)); **Third prize** in the Provincial Excellent Student Competition ([view exam](<G11_exam Provincial.pdf>)).
 - Bach Khoa University at HCMC: **Third prize** of the 2019 Pascal Descendants Contest co-organized by the School with TEKO; Reached **the semi-final** of Code Tour x Uni co-organized by the School with VNG.
 - Work at Viettel Solutions: Third prize in Hackathon Backend Code Challenge 2023 ([view leader board](https://www.hackerrank.com/contests/backend-code-challenge/leaderboard)).
 
