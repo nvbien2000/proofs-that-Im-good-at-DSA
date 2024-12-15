@@ -13,7 +13,7 @@ Some IT achievements I would like to list here:
 - Bach Khoa University at HCMC: **[Third prize](<BKU_3rd Pascal Descendants.jpg>)** of the 2019 Pascal Descendants Contest co-organized by the School with TEKO; Reached **[the semi-final](<BKU_semi-final Code Tour x Uni.jpg>)** of Code Tour x Uni co-organized by the School with VNG.
 - Work at Viettel Solutions: **Third prize** in Hackathon Backend Code Challenge 2023 ([view HackerRank leaderboard](https://www.hackerrank.com/contests/backend-code-challenge/leaderboard)).
 
-I also combined the tree data structure with the Flutter framework and created a package to visualize the inheritance tree. Reference: [recursive_tree_flutter](https://pub.dev/packages/recursive_tree_flutter).
+I also combined the tree data structure with the Flutter framework and created a package to visualize the inheritance tree. Reference: [unit_tree_flutter](https://pub.dev/packages/unit_tree_flutter).
 
 HackerRank Profile: [hackerrank.com/nvbien2000](https://www.hackerrank.com/profile/nvbien2000)
 
